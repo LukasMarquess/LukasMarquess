@@ -1,6 +1,6 @@
 # Lucas Marques 
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack-Java`**
 
 Me chamo Lucas Marques dos Santos, sou bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte(UFRN). No momento estou cursando Engenharia de Computação na UFRN e Programção FullStack em Java na EBAC( Escola Britânica de Artes e Ciências).
 ---
