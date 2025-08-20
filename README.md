@@ -67,6 +67,15 @@ Me chamo Lucas Marques dos Santos, sou bacharel em Ciências e Tecnologia pela U
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"
 />
+
+<img 
+    align="left" 
+    alt="Parcel" 
+    title="Parcel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/2420/2420464.png"
+/>
         
 <br/>
 <br/>
