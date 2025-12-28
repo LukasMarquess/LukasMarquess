@@ -80,12 +80,3 @@ Me chamo Lucas Marques dos Santos, sou bacharel em Ciências e Tecnologia pela U
 />
         
 <br/>
-
-### Estatísticas
-
-<div align="left">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasMarquess&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</div>
